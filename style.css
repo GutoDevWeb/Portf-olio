@@ -36,6 +36,7 @@ body {
   width: 56px;
   height: 56px;
   border-radius: 50%;
+  border: 1px solid black;
   background: #ffd44a;
   display: flex;
   align-items: center;
@@ -117,6 +118,7 @@ body {
 .guilherme-augusto {
 display: flex;
 flex-direction: column;
+gap: 0;
 }
 .hero-subtitle {
   text-align: center;
